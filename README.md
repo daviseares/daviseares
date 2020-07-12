@@ -1,6 +1,6 @@
 ### Hi there 👋  &nbsp; <br>
 <a href="https://linkedin.com/in/daviseares" target="_blank">
-  <img src="assets/linkedin_davi.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/daviseares/daviseares/master/assets/linkedin_davi.svg" width="80"/>
 </a>
 <a href="https://instagram.com/daviseares" target="_blank">
 <img src="https://raw.githubusercontent.com/daviseares/daviseares/master/assets/intagram_davi.svg" width="80"/>

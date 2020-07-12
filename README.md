@@ -1,4 +1,4 @@
-### Hi there 👋  <img src="assets/linkedin_davi.svg" width="100"/>
+### Hi there 👋  <img src="assets/linkedin_davi.svg" width="80"/> <img src="assets/instagram_davi.svg" width="80"/>
 
 <!--
 **daviseares/daviseares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

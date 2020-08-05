@@ -20,7 +20,7 @@ more about me:
 
 - 💬 &nbsp;Ask me about Anything 
 
-- 📫 &nbsp;How to reach me: davi.bseares@gmail.com | +55 28 988098669
+- 📫 &nbsp;How to reach me: davi.bseares@gmail.com 
 
 - ⚡ &nbsp;Fun fact: brown belt karate !! OSS!!
 

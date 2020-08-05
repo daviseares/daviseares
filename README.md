@@ -10,7 +10,7 @@
 -->
 
 A music and coffee lover, in 2015 I decided to venture into the world of programming <br/>
-and currently work with React Native as [Codificar Apps](http://codificar.com.br/) 💚.
+and currently work with React Native at [Codificar Apps](http://codificar.com.br/) 💚.
 
 more about me:
 

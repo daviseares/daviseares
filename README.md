@@ -16,7 +16,7 @@ more about me:
 
 - 🚀 &nbsp;I´m currently a student at Bootcamp GoStack at Rocketseat.💜 
 
-- 🌱 &nbsp;I’m currently learning ReactNative, ReactJS & NodeJs with Typescript.
+- 🌱 &nbsp;I’m currently learning React Native, Flutter and CI/CD.
 
 - 💬 &nbsp;Ask me about Anything 
 

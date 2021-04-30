@@ -9,12 +9,9 @@
 **daviseares/daviseares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-A music and coffee lover, in 2015 I decided to venture into the world of programming <br/>
-and currently work with React Native at [@platformbuilders](https://platformbuilders.io/) 💛 🖤.
+I currently work at [@platformbuilders](https://platformbuilders.io/) 💛 🖤  with React and React Native.
 
-more about me:
+📫 &nbsp;How to reach me: davi.bseares@gmail.com 
 
-- 📫 &nbsp;How to reach me: davi.bseares@gmail.com 
-
-- ⚡ &nbsp;Fun fact: brown belt karate !! OSS!!
+⚡ &nbsp;Fun fact: brown belt karate !! OSS!!
 

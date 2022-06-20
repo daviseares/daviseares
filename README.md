@@ -13,5 +13,5 @@ I currently work with React Native.
 
 📫 &nbsp;How to reach me: davi.bseares@gmail.com 
 
-⚡ &nbsp;Fun fact: brown belt karate !! OSS!!
+⚡ &nbsp;Fun fact: karate black belt !! OSS!!
 

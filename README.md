@@ -15,3 +15,7 @@ I currently work with React Native.
 
 ⚡ &nbsp;Fun fact: karate black belt !! OSS!!
 
+My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,gql,firebase)](https://skillicons.dev)
+

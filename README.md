@@ -9,7 +9,7 @@
 **daviseares/daviseares** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I currently work with Flutter & React Native.
+I currently work with React Native.
 
 📫 &nbsp;How to reach me: davi.bseares@gmail.com 
 
